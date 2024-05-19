@@ -52,8 +52,8 @@ public class Main {
         devCamila.progredir();
         devCamila.progredir();
         System.out.println("-");
-        System.out.println("Conteudos inscritos" + devAlex.getConteudosInscritos());
-        System.out.println("Conteudos concluidos" + devAlex.getConteudosConcluidos());
+        System.out.println("Conteudos inscritos" + devCamila.getConteudosInscritos());
+        System.out.println("Conteudos concluidos" + devCamila.getConteudosConcluidos());
         System.out.println("XP:"+devCamila.calcularTotalXp());
     }
 }
